@@ -1,16 +1,21 @@
 ---
+# _Remove The Section_
 
-# namedapolooza-2023-summer-template
+## namedapolooza-2023-summer-template
 Namedapolooza Summer 2023 Base Template used to build your project off of.
 
-## _Remove The Section_
+[ x ] Find the repository
 
-[x] Find the repository
-[] Used the template as a guideline
-[] Fill in the 👇 details for your project - all places with \[ \] statements
-[] Build your project
-[] Create your presentation deck
-[] Book your presentation slot (inviting the entire team)
+[ ] Used the template as a guideline
+
+[ ] Fill in the 👇 details for your project - all places with \[ \] statements
+
+[ ] Build your project
+
+[ ] Create your presentation deck
+
+[ ] Book your presentation slot (inviting the entire team)
+
 
 ---
 
