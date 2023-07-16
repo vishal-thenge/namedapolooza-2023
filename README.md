@@ -4,7 +4,7 @@
 ## namedapolooza-2023-summer-template
 Namedapolooza Summer 2023 Base Template used to build your project off of.
 
-- [ x ] Find the repository
+- [x] Find the repository
 - [ ] Used the template as a guideline
 - [ ] Fill in the 👇 details for your project - all places with \[ \] statements
 - [ ] Build your project
