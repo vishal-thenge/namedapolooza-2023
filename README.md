@@ -13,19 +13,20 @@ Namedapolooza Summer 2023 Base Template used to build your project off of.
 
 ---
 
-# \[ Project Name \]
+# \[ Auto Onbaord Container as Custom Base Images \]
 
 ## Description
-\[ Provide a brief description of the project. \]
+\[ Snyk does not support Public ECR images (https://gallery.ecr.aws/) out of the box. 
+This scrip will allow onboarding a list of images onto Snyk a7 mark them as Custom base images. After that any images built on top of these base images can be onboarded onto Snyk to get custom base image recommendations. \]
 
 ## Group Members
-\[ List all members of your group \]
+\[ Vishal Thenge \]
 
 ## Prerequisites
-\[ List any software, tools, or libraries that users need to have installed on their local machines to run the project. \]
+\[ Snyk CLI, python 3.8. \]
 
 ## Getting Started
-\[ Provide instructions on how to get started with the project. \]
+\[ Clone it and run the python script by passing a .txt file with a list of publicly available images you want to onboard to Snyk container . \]
 
 ### Setup
 \[ Include step-by-step instructions on how to set up the project locally. This may include cloning the repository, installing dependencies, and any other required configurations. \]
