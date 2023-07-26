@@ -1,4 +1,3 @@
-
 # \[ Auto Onbaord Container as Custom Base Images \]
 
 ## Description
