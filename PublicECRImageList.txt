@@ -1,0 +1,5 @@
+public.ecr.aws/amazon-ssm-agent/amazon-ssm-agent:3.1.90
+public.ecr.aws/eks-distro/kubernetes-csi/external-attacher:v4.3.0-eks-1-26-14
+public.ecr.aws/sam/build-python3.9:1
+public.ecr.aws/cloudwatch-agent/cloudwatch-agent:1.247348.0b251302
+
