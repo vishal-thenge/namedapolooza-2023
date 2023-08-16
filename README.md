@@ -1,4 +1,4 @@
-# \[ Auto Onbaord Container as Custom Base Images \]
+# \[ Auto Onboard Container as Custom Base Images \]
 
 ## Description
 \[ Snyk does not support Public ECR images (https://gallery.ecr.aws/) out of the box. 
