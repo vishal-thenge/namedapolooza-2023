@@ -2,7 +2,7 @@
 
 ## Description
 \[ Snyk does not support Public ECR images (https://gallery.ecr.aws/) out of the box. 
-This script will allow onboarding a list of images onto Snyk a7 mark them as Custom base images. After that any images built on top of these base images can be onboarded onto Snyk to get custom base image recommendations. \]
+This script will allow onboarding a list of images onto Snyk and mark them as Custom base images. After that any images built on top of these base images can be onboarded onto Snyk to get custom base image recommendations. \]
 
 ## Group Members
 \[ Vishal Thenge \]
